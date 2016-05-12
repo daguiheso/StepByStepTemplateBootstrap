@@ -1,6 +1,21 @@
+header {
+	border: 1px solid blue;
+}
 .Header-menu {
 	width: 100%;
 }
 .Header-form .form-group input{
 	width: 340px;
+}
+section {
+	border: 1px solid green;
+}
+ul {
+	list-style: none;
+}
+img {
+	height: 190px;
+}
+footer {
+	border: 1px solid purple;
 }
